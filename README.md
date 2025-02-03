@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm looking forward to collaborating with other software enthusiasts<br><br>I'm currently studying Machine Learning.<br>
-
+Hello! I'm passionate about leveraging technology to create impactful solutions, especially in healthcare. I'm currently deepening my knowledge in Machine Learning and am eager to collaborate with fellow tech enthusiasts to drive innovation and positive change.
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@orlyaseye) 
